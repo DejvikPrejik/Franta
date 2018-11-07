@@ -1,2 +1,0 @@
-# Franta
-Created with CodeSandbox
